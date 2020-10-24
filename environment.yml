@@ -11,4 +11,7 @@ dependencies:
   - partd
   - bokeh
   - dask
-  -KMeans
+  - KMeans
+  - MiniBatchKMeans
+  - cv2
+  - skimage
