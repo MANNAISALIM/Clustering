@@ -10,4 +10,5 @@ dependencies:
   - pandas
   - partd
   - bokeh
+  - cv2
   - dask
