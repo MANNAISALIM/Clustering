@@ -12,5 +12,5 @@ dependencies:
   - bokeh
   - dask
   -cv2
-  -sklearn
-  -skimage
+  -KMeans
+  -MiniBatchKMeans
