@@ -14,4 +14,3 @@ dependencies:
   - KMeans
   - MiniBatchKMeans
   - cv2
-  - skimage
